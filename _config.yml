@@ -48,11 +48,20 @@ social_media:
 
 topics:
   - name: Python
-    web_url: https://github.com/topics/css
     image_url: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
 
-  - name: Web design
+  - name: R
+    image_url: https://www.r-project.org/logo/Rlogo.png
+    
+  - name: SQL
+    image_url: https://pngimage.net/wp-content/uploads/2018/05/database-logo-png.png
+    
+  - name: Tableau
+    image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6VABkeRUpIGA5KBzUs64RlioZpBhZUswOxfljix1ids5r7Zc8&usqp=CAU
+  
+  - name: Power BI
+    image_url: https://i.pcmag.com/imagery/reviews/02Q2JyM7Iq3t8rFTddlZMxa-7.fit_scale.size_1028x578.v_1569482292.jpg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+    
+ 
